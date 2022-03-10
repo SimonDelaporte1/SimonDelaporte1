@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/simon-delaporte/" target="Simon Delaporte's LinkedIN" >
+<a href="https://www.linkedin.com/in/simon-delaporte/" target="_blank" >
 	Check my  profile on Linkedin <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
