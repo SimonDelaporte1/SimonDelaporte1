@@ -11,14 +11,12 @@
 <br/>
 
 </p>
-<table>
+<table border="0">
 	<tr>
 		<td><a href="https://www.linkedin.com/in/simon-delaporte/"> <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a></td>
 		<td><a href="https://www.linkedin.com/in/simon-delaporte/">Check my profile on Linkedin</a></td>
 	</tr>
 </table>
-			
-<a href="https://www.linkedin.com/in/simon-delaporte/"> <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
 <br/>
 <br/>
