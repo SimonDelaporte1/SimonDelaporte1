@@ -11,16 +11,16 @@
 <br/>
 
 </p>
-<table style="border-collapse: collapse; border: none;">
-	<tr style="border: none;">
-		<td style="border: none;"><a href="https://www.linkedin.com/in/simon-delaporte/"> <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a></td>
-		<td style="border: none;"><a href="https://www.linkedin.com/in/simon-delaporte/">Check my profile on Linkedin</a></td>
+
+**Profile**
+
+<table>
+	<tr>
+		<td><a href="https://www.linkedin.com/in/simon-delaporte/"> <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a></td>
+		<td><a href="https://www.linkedin.com/in/simon-delaporte/">Check my profile on Linkedin</a></td>
 	</tr>
 </table>
 
-<br/>
-<br/>
-<br/>
 
 **Technology stack**
 
