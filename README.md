@@ -13,13 +13,12 @@
 <br/>
 
 <br/>
-
 **profile**
 
-Check my Linkedin profile <a href="https://www.linkedin.com/in/simon-delaporte/">
+<a href="https://www.linkedin.com/in/simon-delaporte/">
+	Check my Linkedin profile 
   <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
+</a> 
 And my resume : https://www.dropbox.com/s/9n6dsrr12goexr4/SimonDELAPORTE.pdf
 
 **technology stack**
