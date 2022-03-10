@@ -1,26 +1,20 @@
-### Hello there !
-<p>
-	I have been a web developer since 2008, and I specialized in Symfony at the end of 2021. I finished my Symfony developer training with the O'clock school, and I am currently preparing the professional title Web & Mobile Web Developer.
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !
+
 <br />
-	Between 2009 and 2021 I was lead developer and web product manager, telecommuting from Lyon, for the company ADVISTO located in Paris 10th.
-	Advisto is publisher of the PEEL CMS for which I was in charge of development. This position led me to intervene in many areas: developments, delegation of developments, project management. It allowed me to acquire an understanding of the interests and concerns of the different actors (customer, salesperson, project manager). Developing the CMS PEEL allowed me to acquire great rigor in the design of development and the holding of a long-term strategy.
+    I have been a web developer since 2008, and I have recently specialised in Symfony at the end of 2021. I finished my Symfony developer training with the O'clock school, and I am currently preparing to qualify as a Web & Mobile Web Developer.<br />
+    Between 2009 and 2021 I was a lead developer and web product manager for Advisto, a web agency based in the 10th arrondissement in Paris. I completed this role remotely from Lyon. Advisto is the owner and publisher of PEEL CMS which I was in charge of developing. In this position I developed technical skills such as development and project management skills which included managing other developers. It allowed me to acquire an understanding of the interests and concerns of different actors in the web development process such as customers, salespeople and project managers. Developing and designing the CMS PEEL required a disciplined and rigorous approach and I was able to successfully follow, plan and manage a long-term strategy.<br />
+    I was responsible for developing e-commerce websites, advertisements and institutional websites based on this CMS.
+    In addition to this, my professional activities within retail and restaurant business I have learned to understand the needs of the customers and the importance of a deadline
 <br />
-	I was also in charge of developing e-commerce sites, advertisements and institutional sites based on this CMS.
-<br />
-	I also learned to know the needs of the customer in my previous activities within retail and restaurant business.
 <br/>
 
-</p>
+<a href="https://www.linkedin.com/in/simon-delaporte/" target="Simon Delaporte's LinkedIN" >
+	Check my  profile on Linkedin <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-**Profile**
-
-<table>
-	<tr>
-		<td><a href="https://www.linkedin.com/in/simon-delaporte/"> <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a></td>
-		<td><a href="https://www.linkedin.com/in/simon-delaporte/">Check my profile on Linkedin</a></td>
-	</tr>
-</table>
-
+<br/>
+<br/>
+<br/>
 
 **Technology stack**
 
@@ -38,8 +32,6 @@
 <code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/directadmin.svg"></code>
 <code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/tortoiseSvn.png"></code>
 <code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/vscode.png"></code>
-<code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/linux.png"></code>
-
 
 
 <br/>
