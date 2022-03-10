@@ -1,6 +1,5 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !
 
-
 <br />
 	I have been a web developer since 2008, and I specialized in Symfony at the end of 2021. I finished my Symfony developer training with the O'clock school, and I am currently preparing the professional title Web & Mobile Web Developer.
 <br />
@@ -13,13 +12,12 @@
 <br/>
 
 <br/>
+
 **profile**
 
 <a href="https://www.linkedin.com/in/simon-delaporte/">
-	Check my Linkedin profile 
-  <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
-And my resume : https://www.dropbox.com/s/9n6dsrr12goexr4/SimonDELAPORTE.pdf
+	Check my  profile on Linkedin <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 **technology stack**
 
