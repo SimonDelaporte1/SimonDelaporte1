@@ -1,6 +1,5 @@
 ### Hello there !
 
-<br />
 	I have been a web developer since 2008, and I specialized in Symfony at the end of 2021. I finished my Symfony developer training with the O'clock school, and I am currently preparing the professional title Web & Mobile Web Developer.
 <br />
 	Between 2009 and 2021 I was lead developer and web product manager, telecommuting from Lyon, for the company ADVISTO located in Paris 10th.
@@ -13,7 +12,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/simon-delaporte/" target="_blank" >
+<a href="https://www.linkedin.com/in/simon-delaporte/">
 	Check my  profile on Linkedin <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
