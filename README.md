@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/simon-delaporte/">
+<a href="https://www.linkedin.com/in/simon-delaporte/" target="Simon Delaporte's LinkedIN" >
 	Check my  profile on Linkedin <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-**technology stack**
+**Technology stack**
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -31,10 +31,17 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/Insomnia.jpg"></code>
+<code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/WampServer-logo.png"></code>
+<code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/cpanel.png"></code>
+<code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/directadmin.svg"></code>
+<code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/tortoiseSvn.png"></code>
+<code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/vscode.png"></code>
+
 
 <br/>
 
-**📈 My GitHub stats**
+**My GitHub stats**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SimonDelaporte1&show_icons=true&theme=dark" alt="SimonDelaporte1" /> </p>
 
