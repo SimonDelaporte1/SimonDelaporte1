@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"> !
+### Hello there !
 
 <br />
 	I have been a web developer since 2008, and I specialized in Symfony at the end of 2021. I finished my Symfony developer training with the O'clock school, and I am currently preparing the professional title Web & Mobile Web Developer.
