@@ -37,6 +37,8 @@
 <code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/directadmin.svg"></code>
 <code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/tortoiseSvn.png"></code>
 <code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/vscode.png"></code>
+<code><img height="40" src="https://github.com/SimonDelaporte1/SimonDelaporte1/blob/main/img/linux.png"></code>
+
 
 
 <br/>
