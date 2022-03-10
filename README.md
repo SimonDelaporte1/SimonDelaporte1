@@ -1,7 +1,5 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="simon-delaporte-22b14020" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/simon-delaporte-22b14020?trk=profile-badge">Simon DELAPORTE</a></div>
-              
+   
 <br />
     I have been a web developer since 2008, and I have recently specialised in Symfony at the end of 2021. I finished my Symfony developer training with the O'clock school, and I am currently preparing to qualify as a Web & Mobile Web Developer.<br />
 	<br />
