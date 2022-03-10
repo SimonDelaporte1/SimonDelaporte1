@@ -4,7 +4,7 @@
 	I have been a web developer since 2008, and I specialized in Symfony at the end of 2021. I finished my Symfony developer training with the O'clock school, and I am currently preparing the professional title Web & Mobile Web Developer.
 <br />
 	Between 2009 and 2021 I was lead developer and web product manager, telecommuting from Lyon, for the company ADVISTO located in Paris 10th.
-	Advisto is publisher of the PEEL e-commerce CMS for which I was in charge of development. This position led me to intervene in many areas: developments, delegation of developments, project management. It allowed me to acquire an understanding of the interests and concerns of the different actors (customer, salesperson, project manager). Developing the CMS PEEL allowed me to acquire great rigor in the design of development and the holding of a long-term strategy.
+	Advisto is publisher of the PEEL CMS for which I was in charge of development. This position led me to intervene in many areas: developments, delegation of developments, project management. It allowed me to acquire an understanding of the interests and concerns of the different actors (customer, salesperson, project manager). Developing the CMS PEEL allowed me to acquire great rigor in the design of development and the holding of a long-term strategy.
 <br />
 	I was also in charge of developing e-commerce sites, advertisements and institutional sites based on this CMS.
 <br />
