@@ -13,11 +13,12 @@
 
 <br/>
 
-
 <a href="https://www.linkedin.com/in/simon-delaporte/">
 	Check my  profile on Linkedin <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br/>
+<br/>
 <br/>
 
 **technology stack**
