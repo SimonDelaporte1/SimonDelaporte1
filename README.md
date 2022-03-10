@@ -27,8 +27,6 @@
 
 
 <br/>
-<br/>
-<br/>
 
 **Technology stack**
 
