@@ -18,6 +18,7 @@
 	Check my  profile on Linkedin <img align="left" alt="Simon Delaporte's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br/>
 
 **technology stack**
 
